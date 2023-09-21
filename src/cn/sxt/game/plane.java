@@ -27,7 +27,7 @@ public class plane extends GameObject{
 			y -= speed;
 		}
 		if(down) {
-			y += speed;
+			y += speed; 
 		}
 		}
 		else{
